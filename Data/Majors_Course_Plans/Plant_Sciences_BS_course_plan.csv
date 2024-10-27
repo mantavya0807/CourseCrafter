@@ -1,0 +1,41 @@
+Year,Semester,Course,Credits
+First Year,Fall,BIOL 110†,4
+First Year,Spring,CHEM 110†,3
+First Year,Fall,AG 150,2
+First Year,Spring,CHEM 111†,1
+First Year,Fall,"ENGL 15,  30H, or ESL  15‡†",3
+First Year,Spring,AGECO 295,1
+First Year,Fall,"MATH 22,  26, MATH 40, MATH  41, MATH  110, or MATH  140‡†",3-5
+First Year,Spring,SOILS 101*†,3
+First Year,Fall,AGRO 28 or HORT  101*,3
+First Year,Spring,SOILS 102,1
+Second Year,Fall,PLANT 200,3
+Second Year,Spring,ENT 313,2
+Second Year,Fall,ENGL 202C or  202D‡†,3
+Second Year,Spring,ENT 314 or  316,1
+Second Year,Fall,"AGBM 101, ECON  14, ECON  102, or ECON  104†",3
+Second Year,Spring,SOILS 402,3
+Second Year,Fall,"STAT 200,  240, or  250‡†",3-4
+Second Year,Spring,General Education Course,3
+Second Year,Fall,"AGECO 122, AGECO 134, AGECO  144, AGECO  154, or AGECO  496 (Agroecology Selection)",3
+Second Year,Spring,"AG 160, GEOG  30N, PHIL  13, PHIL  103, or PHIL  132 (Ethics Selection)",3
+Third Year,Fall,AGECO 457*,3
+Third Year,Spring,SOILS 401,3
+Third Year,Fall,PPEM 405,3
+Third Year,Spring,"AGRO 423,  425, HORT  202, HORT  315, HORT  431, HORT  432, HORT  433, or SOILS  418 (Production Selection)",3
+Third Year,Fall,BIOL 222 or HORT  407 (Plant Breeding/Genetics Seletion),3
+Third Year,Spring,Supporting Course,3
+Third Year,Fall,"AGRO 423,  425, HORT  202, HORT  315, HORT  431, HORT  432, HORT  433, or SOILS  418 (Production Selection)",3
+Third Year,Spring,Supporting Course,3
+Third Year,Fall,Supporting Course,3
+Third Year,Spring,General Education Course,3
+Fourth Year,Fall,AGECO 438,4
+Fourth Year,Spring,PLANT 461*,3
+Fourth Year,Fall,AGECO 495,1
+Fourth Year,Spring,Supporting Course,3
+Fourth Year,Fall,Supporting Course,3
+Fourth Year,Spring,Supporting Course,3
+Fourth Year,Fall,"AGRO 410W, HORT  412W, or SOILS  412W (Writing Across the Curriculum)",3-4
+Fourth Year,Spring,General Education Course,3
+Fourth Year,Fall,General Education Course,3
+Fourth Year,Spring,Elective,4

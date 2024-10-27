@@ -1,0 +1,43 @@
+Year,Semester,Course,Credits
+First Year,Fall,BE 1 (or First year Seminar)†,1
+First Year,Spring,CHEM 111 (GN),1
+First Year,Fall,CHEM 110 (GN)*#†,3
+First Year,Spring,"ENGL 15,  30H, or ESL  15 (GWS)*‡†",3
+First Year,Fall,EDSGN 100*#,3
+First Year,Spring,MATH 141 or  141E (GQ)*‡#†,4
+First Year,Fall,MATH 140 or  140E (GQ)*‡#†,4
+First Year,Spring,PHYS 211 (GN)*#†,4
+First Year,Fall,General Education Course†,3
+First Year,Spring,General Education Course†,3
+Second Year,Fall,"CAS 100A,  100B, or  100C (GWS)*‡†",3
+Second Year,Spring,EMCH 212*,3
+Second Year,Fall,EMCH 211*,3
+Second Year,Spring,EMCH 213*,3
+Second Year,Fall,MATH 251*1,4
+Second Year,Spring,MATH 231,2
+Second Year,Fall,PHYS 212 (GN)†,4
+Second Year,Spring,ME 300*,3
+Second Year,Fall,General Education Course†,3
+Second Year,Spring,Math/Basic Science Selection,3
+Third Year,Fall,BE 301*,3
+Third Year,Spring,BE 302*,4
+Third Year,Fall,BE 308*,3
+Third Year,Spring,BE 305*,3
+Third Year,Fall,BE 391 (GWS)‡†,2
+Third Year,Spring,BE 392 (GWS)‡†,2
+Third Year,Fall,CE 360 or ME  320*,3
+Third Year,Spring,"BE 303,  306, or  307*",3
+Third Year,Fall,"STAT 240,  250,  318,  401,  418, or IE  424",3
+Third Year,Spring,"BE 303,  306, or  307*",3
+Fourth Year,Fall,BE 404,3
+Fourth Year,Spring,BE 466W,2
+Fourth Year,Fall,BE 460W,2
+Fourth Year,Spring,BE 4XX-Biological Engineering Selection,3
+Fourth Year,Fall,BE 4XX-Biological Engineering Selection,3
+Fourth Year,Spring,Engineering Science/Design Selection,3
+Fourth Year,Fall,BIO/AG Selection,3
+Fourth Year,Spring,Technical Selection,3
+Fourth Year,Fall,Engineering Science/Design Selection,3
+Fourth Year,Spring,Technical Selection,3
+Fourth Year,Fall,General Education Course (GHW)†,1.5
+Fourth Year,Spring,General Education Course (GHW)†,1.5

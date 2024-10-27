@@ -1,0 +1,45 @@
+Year,Semester,Course,Credits
+First Year,Fall,CHE 100 (or First Year Seminar )†,1
+First Year,Spring,CHEM 112 (GN),3
+First Year,Fall,CHEM 110 (GN)*#†,3
+First Year,Spring,CHEM 113 (GN),1
+First Year,Fall,CHEM 111 (GN),1
+First Year,Spring,"ENGL 15,  30H, or ESL  15 (GWS)",3
+First Year,Fall,ECON 102 or  104 (GS)†,3
+First Year,Spring,MATH 141 or  141E (GQ)*‡#†,4
+First Year,Fall,EDSGN 100*#,3
+First Year,Spring,PHYS 211 (PHYS 211L and PHYS 211R (GN))*#†,4
+First Year,Fall,MATH 140 or  140E (GQ)*‡#†,4
+First Year,Spring,General Education Course†,3
+Second Year,Fall,CHE 210*,3
+Second Year,Spring,CHE 220*,3
+Second Year,Fall,CHEM 210,3
+Second Year,Spring,CHE 230,1
+Second Year,Fall,MATH 251,4
+Second Year,Spring,CHEM 212,3
+Second Year,Fall,PHYS 212 (PHYS 212L & PHYS 212R (GN))†,4
+Second Year,Spring,CHEM 213,2
+Second Year,Fall,General Education Course†,3
+Second Year,Spring,MATH 231,2
+Third Year,Fall,BMB 251 or MICRB  251,3
+Third Year,Spring,CAS 100A or  100B (GWS)‡†,3
+Third Year,Fall,CHE 320*,3
+Third Year,Spring,CHE 300,1
+Third Year,Fall,CHE 330*,3
+Third Year,Spring,CHE 340,3
+Third Year,Fall,Professional Elective,3
+Third Year,Spring,CHE 350*,3
+Third Year,Fall,General Education Course†,3
+Third Year,Spring,CHEM 457,2
+Third Year,Fall,General Education Course†,3
+Third Year,Spring,Physical Chemistry Elective,3
+Fourth Year,Fall,CHE 410,3
+Fourth Year,Spring,CHE 470,3
+Fourth Year,Fall,CHE 430,3
+Fourth Year,Spring,CHE 480W,3
+Fourth Year,Fall,CHE 452,3
+Fourth Year,Spring,Chemical Engineering Elective,3
+Fourth Year,Fall,ENGL 202C (GWS)‡†,3
+Fourth Year,Spring,Engineering Elective,3
+Fourth Year,Fall,Chemical Engineering Elective,3
+Fourth Year,Spring,Professional Elective,3

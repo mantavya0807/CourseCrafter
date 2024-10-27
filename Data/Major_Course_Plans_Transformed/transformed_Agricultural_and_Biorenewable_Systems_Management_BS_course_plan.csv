@@ -1,0 +1,43 @@
+Course,Credits,Semester_Number
+ABSM 100,1.0,1
+CHEM 111†,1.0,2
+CHEM 110†,3.0,1
+ACCTG 211,4.0,2
+EDSGN 100*,3.0,1
+ENGL 15‡†,3.0,2
+MATH 110|| 140‡†,4.0,1
+PHYS 250|| 211†,4.0,2
+General Education Course (GHW),1.5,1
+General Education Course,3.0,2
+ECON 104†,3.0,1
+General Education Course (GHW),1.5,2
+AGBM 101||ECON  102†,3.0,3
+BLAW 243|| BA  243||||BA  241&&BA  242,3.0,4
+BIOL 110|| 11&& 12†,4.0,3
+General Education Course,3.0,4
+CAS 100A|| 100B‡†,3.0,3
+General Education Course,3.0,4
+STAT 200|| 240‡†,3.0,3
+Additional Specialization,3.0,4
+General Education Course,3.0,3
+Additional Specialization,3.0,4
+AGBM 106*,3.0,5
+ABSM 392‡†,2.0,6
+ABSM 300*,3.0,5
+BA 303||AGBM  302,3.0,6
+ABSM 301*,3.0,5
+ABSM Selection,3.0,6
+ABSM 350*,3.0,5
+ABSM Selection,3.0,6
+ABSM 391‡†,2.0,5
+Additional Specialization,3.0,6
+ABSM 428,3.0,7
+ABSM 426,3.0,8
+ABSM 430W,1.0,7
+ABSM 431W,2.0,8
+ABSM 422,3.0,7
+ABSM Selection,3.0,8
+ABSM 429,3.0,7
+Additional Specialization,3.0,8
+Additional Specialization,3.0,7
+Additional Specialization,3.0,8

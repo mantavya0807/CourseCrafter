@@ -12,6 +12,7 @@ const {
   assignCoursesToSemesters
 } = require('../utils/scheduler');
 
+
 function removeDuplicates(courses) {
   const uniqueCourses = [];
   const courseSet = new Set();

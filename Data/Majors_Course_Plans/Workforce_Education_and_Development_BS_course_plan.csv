@@ -1,0 +1,39 @@
+Year,Semester,Course,Credits
+First Year,Fall,EDUC 100,1
+First Year,Spring,WFED 101*#†,1
+First Year,Fall,ENGL 15*#†,3
+First Year,Spring,CAS 100A*,3
+First Year,Fall,Science Selection,3
+First Year,Spring,EDTHP 115*#†,3
+First Year,Fall,Humanities Selection,3
+First Year,Spring,"WFED 395A,  395B, or  395C*",3
+First Year,Fall,Mathematics Selection*#†,3
+First Year,Spring,Literature Selection*#†1,3
+First Year,Fall,Health and Physical Activity,1.5
+First Year,Spring,Mathematics Selection*#†,3
+Second Year,Fall,WFED 1,3
+Second Year,Spring,WFED 207W*,3
+Second Year,Fall,WFED 105*,3
+Second Year,Spring,WFED 442*,2
+Second Year,Fall,"WFED 395A,  395B, or  395C*",3
+Second Year,Spring,"WFED 395A,  395B, or  395C*",3
+Second Year,Fall,WFED 441*,2
+Second Year,Spring,ECON 102 or  104*#†,3
+Second Year,Fall,EDPSY 14*#†,3
+Second Year,Spring,Social and Behavioral Science Selection,3
+Second Year,Fall,Science Selection†,3
+Second Year,Spring,Elective,3
+Third Year,Fall,WFED 106*,3
+Third Year,Spring,WFED 413*,3
+Third Year,Fall,WFED 323*,3
+Third Year,Spring,WFED 445*,3
+Third Year,Fall,"WFED 395A,  395B, or  395C*",3
+Third Year,Spring,"WFED 395A,  395B, or  395C*",3
+Third Year,Fall,ENGL 202A or  202B*†,3
+Third Year,Spring,Science Selection,3
+Third Year,Fall,Art Selection,3
+Third Year,Spring,Elective,3
+Fourth Year,Fall,"WFED 395A,  395B, or  395C*",3
+Fourth Year,Spring,WFED 495C*,10
+Fourth Year,Fall,STS 245Z or WFED  450*,3
+Fourth Year,Spring,"WFED 395A,  395B, or  395C*",3

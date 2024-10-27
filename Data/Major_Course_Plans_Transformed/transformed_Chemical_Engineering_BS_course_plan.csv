@@ -1,0 +1,45 @@
+Course,Credits,Semester_Number
+CHE 100 (or First Year Seminar )†,1,1
+CHEM 112 (GN),3,2
+CHEM 110 (GN)*#†,3,1
+CHEM 113 (GN),1,2
+CHEM 111 (GN),1,1
+ENGL 15||  30H||||ESL  15 (GWS),3,2
+ECON 102|| 104 (GS)†,3,1
+MATH 141|| 141E (GQ)*‡#†,4,2
+EDSGN 100*#,3,1
+PHYS 211 (PHYS 211L&&PHYS 211R (GN))*#†,4,2
+MATH 140|| 140E (GQ)*‡#†,4,1
+General Education Course†,3,2
+CHE 210*,3,3
+CHE 220*,3,4
+CHEM 210,3,3
+CHE 230,1,4
+MATH 251,4,3
+CHEM 212,3,4
+PHYS 212 (PHYS 212L & PHYS 212R (GN))†,4,3
+CHEM 213,2,4
+General Education Course†,3,3
+MATH 231,2,4
+BMB 251||MICRB  251,3,5
+CAS 100A|| 100B (GWS)‡†,3,6
+CHE 320*,3,5
+CHE 300,1,6
+CHE 330*,3,5
+CHE 340,3,6
+Professional Elective,3,5
+CHE 350*,3,6
+General Education Course†,3,5
+CHEM 457,2,6
+General Education Course†,3,5
+Physical Chemistry Elective,3,6
+CHE 410,3,7
+CHE 470,3,8
+CHE 430,3,7
+CHE 480W,3,8
+CHE 452,3,7
+Chemical Engineering Elective,3,8
+ENGL 202C (GWS)‡†,3,7
+Engineering Elective,3,8
+Chemical Engineering Elective,3,7
+Professional Elective,3,8

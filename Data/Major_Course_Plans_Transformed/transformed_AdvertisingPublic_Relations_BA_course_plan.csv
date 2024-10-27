@@ -1,0 +1,41 @@
+Course,Credits,Semester_Number
+COMM 160*,1.0,1
+ECON 102 (GS)*#†,3.0,2
+ENGL 15*#†‡,3.0,1
+General Education Course (GN),3.0,2
+PSYCH 100 (GS)*†,3.0,1
+Any COMM Course*,3.0,2
+General Education Course (GN),3.0,1
+General Education Course (Inter-Domain),3.0,2
+World Language Level 1,4.0,1
+World Language Level 2,4.0,2
+COMM 320*1,3.0,3
+STAT 200*‡†,4.0,4
+General Education Course (Inter-Domain),3.0,3
+COMM 305||  320||  373||  410||  411||  417||  418||  425||  426||  427||  468||  494||  495||  496|||| 499*,3.0,4
+General Education Course (GH),3.0,3
+General Education Course (Exploration),3.0,4
+BA World Cultures,3.0,3
+IL Cultures,3.0,4
+World Language Level 3,4.0,3
+BA Knowledge Domain,3.0,4
+COMM 420*,3.0,5
+COMM 421W*,3.0,6
+CAS 100A||  100B|||| 100C (GWS)‡,3.0,5
+COMM 305||  320||  373||  410||  411||  417||  418||  425||  426||  427||  468||  494||  495||  496|||| 499*,3.0,6
+General Education Course (GA),3.0,5
+General Education Course (GQ)‡,3.0,6
+US Cultures,3.0,5
+BA Knowledge Domain,3.0,6
+BA Knowledge Domain,3.0,5
+BA Knowledge Domain,3.0,6
+COMM 422*,3.0,7
+COMM 424*,3.0,8
+ENGL 202A||  202B||  202C|||| 202D (GWS)‡,3.0,7
+General Education Course (GHW),1.5,8
+General Education Course (GHW),1.5,7
+Elective,3.0,8
+Elective,3.0,7
+Elective,3.0,8
+Elective,3.0,7
+Elective,3.0,8

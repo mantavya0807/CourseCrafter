@@ -1,0 +1,41 @@
+Year,Semester,Course,Credits
+First Year,Fall,IST 110*#,3
+First Year,Spring,IST 220*,3
+First Year,Fall,"IST 140, CMPSC  101, or CMPSC  121*#",3
+First Year,Spring,ECON 102 or  104,3
+First Year,Fall,MATH 110 or  140*‡,4
+First Year,Spring,"ENGL 15,  30H, or ESL  15‡",3
+First Year,Fall,World Language Level 1,4
+First Year,Spring,"General Education Course (GHW, GN, GA, or GS)",3
+First Year,Fall,"General Education Course (GHW, GN, GA, or GS)",3
+First Year,Spring,World Language Level 2,4
+Second Year,Fall,IST 210*#,3
+Second Year,Spring,IST 240 or  242,3
+Second Year,Fall,IST 230*,3
+Second Year,Spring,STAT 200‡,4
+Second Year,Fall,World Language Level 3,4
+Second Year,Spring,CAS 100‡,3
+Second Year,Fall,"General Education Course (GHW, GN, GA, or GS)",3
+Second Year,Spring,"General Education Course (GHW, GN, GA, or GS)",3
+Second Year,Fall,"General Education Course (GHW, GN, GA, or GS)",3
+Second Year,Spring,"General Education Course (GHW, GN, GA, or GS)",3
+Third Year,Fall,IST 301*,3
+Third Year,Spring,IST 431*,3
+Third Year,Fall,IST 331*,3
+Third Year,Spring,IST 302 or  413,3
+Third Year,Fall,Support of Option,3
+Third Year,Spring,ENGL 202C or  202D‡,3
+Third Year,Fall,Elective,3
+Third Year,Spring,World Cultures (IL),3
+Third Year,Fall,"General Education Course (GHW, GN, GA, or GS)",3
+Third Year,Spring,Support of Option,3
+Fourth Year,Fall,IST 402,3
+Fourth Year,Spring,IST 440W*,3
+Fourth Year,Fall,IST 432*,3
+Fourth Year,Spring,Support of Option 400 Level,3
+Fourth Year,Fall,Support of Option,3
+Fourth Year,Spring,"General Education Course (GHW, GN, GA, or GS)",3
+Fourth Year,Fall,World Cultures (IL),3
+Fourth Year,Spring,US Cultures or Elective (US),3
+Fourth Year,Fall,"General Education Course (GHW, GN, GA, or GS)",3
+Fourth Year,Spring,Elective,2

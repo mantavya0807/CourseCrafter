@@ -1,0 +1,43 @@
+Course,Credits,Semester_Number
+IST 140*,3.0,1
+IST 220*#,3.0,2
+CYBER 100S*#,3.0,1
+SRA 111*,3.0,2
+MATH 110*‡,4.0,1
+STAT 200*‡#,4.0,2
+ENGL 15|| CAS  100A||||CAS  100B (GWS),3.0,1
+ENGL 15|| CAS  100A||||CAS  100B (GWS),3.0,2
+General Education Course (GA/GH),3.0,1
+General Education Course (GS)1,3.0,2
+IST 210*#,3.0,3
+IST 261|| 256*,3.0,4
+IST 242*#,3.0,3
+SRA 221*,3.0,4
+CYBER 262*,3.0,3
+SRA 211*,3.0,4
+General Education Course (GN),3.0,3
+IST 230*,3.0,4
+Application Focus Selection 1,3.0,3
+General Education Course (GN),3.0,4
+CYBER 362*,3.0,5
+CYBER 342W*,3.0,6
+SRA 231*,3.0,5
+SRA 311*,3.0,6
+SRA 365*,3.0,5
+CYBER 366*,3.0,6
+ENGL 202C|| 202D‡,3.0,5
+Application Focus Selection 2,3.0,6
+General Education Course (GHW),1.5,5
+General Education Course (GA/GH),3.0,6
+General Education Course (GA/GH),3.0,5
+,,6
+IST 432*,3.0,7
+CYBER 440*,3.0,8
+IST 451*,3.0,7
+IST 454*,3.0,8
+IST 456*,3.0,7
+Application Focus Selection 3,3.0,8
+General Education Course (GN),3.0,7
+General Education Course (GA/GH),3.0,8
+General Education Course (GHW),1.5,7
+Elective,3.0,8

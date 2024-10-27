@@ -1,0 +1,41 @@
+Year,Semester,Course,Credits
+First Year,Fall,SRA 111*#,3
+First Year,Spring,SRA 211*#,3
+First Year,Fall,IST 110*#,3
+First Year,Spring,CAS 100‡,3
+First Year,Fall,"ENGL 15,  30H, or ESL  15‡",3
+First Year,Spring,"ECON 102,  104, or AGBM  101",3
+First Year,Fall,IST 140*#,3
+First Year,Spring,"MATH 22,  26, MATH 40, MATH  41, MATH  110, or MATH  140",3-5
+First Year,Fall,"General Education Course (GN, GA, GH, or GHW)",3
+First Year,Spring,"General Education Course (GN, GA, GH, or GHW)",3
+Second Year,Fall,SRA 221*,3
+Second Year,Spring,SRA 231*,3
+Second Year,Fall,STAT 200‡,4
+Second Year,Spring,PSYCH 100 or SOC  5,3
+Second Year,Fall,SRA 268*,3
+Second Year,Spring,IST 210*#,3
+Second Year,Fall,"PLSC 1,  14, or GEOG  128",3
+Second Year,Spring,US or IL or Elective,3
+Second Year,Fall,Supporting Course,3
+Second Year,Spring,Supporting Course,3
+Third Year,Fall,SRA 311W*,3
+Third Year,Spring,SRA 468*,3
+Third Year,Fall,SRA 365 or STAT  460*,3
+Third Year,Spring,ENGL 202C or  202D‡,3
+Third Year,Fall,US or IL or Elective,3
+Third Year,Spring,IST 432*,3
+Third Year,Fall,Supporting Course,3
+Third Year,Spring,"General Education Course (GN, GA, GH, or GHW)",3
+Third Year,Fall,"General Education Course (GN, GA, GH, or GHW)",3
+Third Year,Spring,"General Education Course (GN, GA, GH, or GHW)",3
+Fourth Year,Fall,IST 452*,3
+Fourth Year,Spring,SRA 433*,3
+Fourth Year,Fall,SRA 421*,3
+Fourth Year,Spring,SRA 440W*,3
+Fourth Year,Fall,400 Level Support of Option,3
+Fourth Year,Spring,Support of Option,3
+Fourth Year,Fall,"General Education Course (GN, GA, GH, or GHW)",3
+Fourth Year,Spring,"General Education Course (GN, GA, GH, or GHW)",3
+Fourth Year,Fall,"General Education Course (GN, GA, GH, or GHW)",3
+Fourth Year,Spring,Elective,1
